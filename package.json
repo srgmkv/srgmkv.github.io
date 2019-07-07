@@ -1,0 +1,19 @@
+{
+  "name": "srgmkv.github.io",
+  "version": "1.0.0",
+  "description": "CV Resume page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srgmkv/srgmkv.github.io.git"
+  },
+  "author": "Mistrekov S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srgmkv/srgmkv.github.io/issues"
+  },
+  "homepage": "https://github.com/srgmkv/srgmkv.github.io#readme"
+}
